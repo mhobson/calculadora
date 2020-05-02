@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1716ab64.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.1a6d0311.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.1a6d0311.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.30b8902d.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.30b8902d.js.map",
-    "static/js/2.9e05f188.chunk.js": "/react-gh-pages/static/js/2.9e05f188.chunk.js",
-    "static/js/2.9e05f188.chunk.js.map": "/react-gh-pages/static/js/2.9e05f188.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.466d13e5e09ff520bc381de5de982d96.js": "/react-gh-pages/precache-manifest.466d13e5e09ff520bc381de5de982d96.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.1716ab64.chunk.css.map": "/react-gh-pages/static/css/main.1716ab64.chunk.css.map",
-    "static/js/2.9e05f188.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.9e05f188.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/react-gh-pages/static/media/RobotoMono-Thin.288302ea.ttf"
+    "main.css": "/calculadora/static/css/main.5d61a973.chunk.css",
+    "main.js": "/calculadora/static/js/main.0a9c0081.chunk.js",
+    "main.js.map": "/calculadora/static/js/main.0a9c0081.chunk.js.map",
+    "runtime-main.js": "/calculadora/static/js/runtime-main.1a558344.js",
+    "runtime-main.js.map": "/calculadora/static/js/runtime-main.1a558344.js.map",
+    "static/js/2.9e05f188.chunk.js": "/calculadora/static/js/2.9e05f188.chunk.js",
+    "static/js/2.9e05f188.chunk.js.map": "/calculadora/static/js/2.9e05f188.chunk.js.map",
+    "index.html": "/calculadora/index.html",
+    "precache-manifest.e03ad103f33ea587762c80dced2f2bef.js": "/calculadora/precache-manifest.e03ad103f33ea587762c80dced2f2bef.js",
+    "service-worker.js": "/calculadora/service-worker.js",
+    "static/css/main.5d61a973.chunk.css.map": "/calculadora/static/css/main.5d61a973.chunk.css.map",
+    "static/js/2.9e05f188.chunk.js.LICENSE.txt": "/calculadora/static/js/2.9e05f188.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calculadora/static/media/RobotoMono-Thin.288302ea.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.30b8902d.js",
+    "static/js/runtime-main.1a558344.js",
     "static/js/2.9e05f188.chunk.js",
-    "static/css/main.1716ab64.chunk.css",
-    "static/js/main.1a6d0311.chunk.js"
+    "static/css/main.5d61a973.chunk.css",
+    "static/js/main.0a9c0081.chunk.js"
   ]
 }
